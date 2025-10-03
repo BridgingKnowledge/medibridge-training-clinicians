@@ -11,39 +11,60 @@ The training is organised into six modules, covering everything a clinician need
 
 ### 1. Introduction to MediBridge  
 *(Delivered by application specialist)*  
-- Overview of the system and its purpose  
-- How MediBridge supports clinical decision‑making  
-> **Focus:** Build confidence and reduce uncertainty.
+- Why MediBridge exists and how it supports clinical decision‑making  
+- Overview of AI‑assisted ultrasound and its role in patient care  
+- Key benefits: faster detection, fewer errors, better documentation  
+> **Focus:** Build trust and confidence in the system from day one.  
+
+---
 
 ### 2. System Navigation  
 *(Delivered by application specialist)*  
-- Logging in, patient search, starting a scan  
-- Navigating menus and key functions  
-> **Focus:** Ensure clinicians know exactly where to click.
+- Logging in securely and selecting the right patient  
+- Starting a scan and accessing previous cases  
+- Navigating menus, icons, and shortcuts  
+- Customizing the interface for personal workflow  
+> **Focus:** Clinicians know exactly where to click and can move quickly without hesitation.  
+
+---
 
 ### 3. Using AI Diagnostics  
 *(Delivered by clinician trainer / application specialist)*  
-- Understanding AI overlays and flagged areas  
-- Interpreting results in context  
-> **Focus:** Clear explanations, no technical jargon.
+- How AI overlays highlight suspicious areas  
+- Understanding color codes, pixel counts, and volume measurements  
+- Differentiating between AI suggestions and clinical judgment  
+- Case examples: benign vs. suspicious findings  
+> **Focus:** Clinicians interpret AI results confidently and integrate them into their own expertise.  
+
+---
 
 ### 4. Recording & Documentation  
 *(Delivered by application specialist)*  
-- Adding notes, saving cases, generating reports  
-- Alerts and follow‑up recommendations  
-> **Focus:** Consistency and compliance with clinical standards.
+- Adding structured notes and free‑text comments  
+- Generating reports for patient records  
+- Setting alerts and follow‑up reminders  
+- Ensuring compliance with clinical guidelines  
+> **Focus:** Documentation is accurate, consistent, and easy to retrieve.  
+
+---
 
 ### 5. Workflow Integration  
 *(Delivered by clinician trainer)*  
-- Using MediBridge alongside EHR/PACS  
-- Case review and handover  
-> **Focus:** Seamless fit into daily routines.
+- Using MediBridge alongside EHR/PACS systems  
+- Sharing cases with colleagues and specialists  
+- Incorporating MediBridge into multidisciplinary team meetings  
+- Handover scenarios: from scan to treatment planning  
+> **Focus:** MediBridge fits seamlessly into existing clinical routines.  
+
+---
 
 ### 6. Troubleshooting Basics  
 *(Delivered by application specialist)*  
-- Common issues (login, image quality, saving cases)  
-- Quick fixes and escalation paths  
-> **Focus:** Empower clinicians to solve simple problems themselves.
+- Common login and access issues  
+- Image quality adjustments (contrast, sharpness, zoom)  
+- Saving and retrieving cases  
+- When to escalate to IT or application specialists  
+> **Focus:** Clinicians can solve simple problems themselves and know when to ask for help.  
 
 ---
 
